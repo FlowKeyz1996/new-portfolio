@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tech = () => {
   return (
-    <div></div>
+    <div>tech</div>
   )
 }
 
